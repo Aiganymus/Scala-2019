@@ -1,0 +1,10 @@
+version: "2"
+services:
+  photo:
+    container_name: photo_service
+    image: best-photo-service:1.0.0 # update to best-photo-service:1.1.0
+    environment:
+      - AWS_ACCESS_KEY=your-access-key
+      - AWS_SECRET_KEY=your-secret-key
+    ports:
+      - "8080:8080"

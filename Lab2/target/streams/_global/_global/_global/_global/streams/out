@@ -1,0 +1,92 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [lab2 / Compile / run] Found inputs: /home/aiganym/Documents/Scala-2019/Lab2/*.{java,scala},/home/aiganym/Documents/Scala-2019/Lab2/src/main/java/**/*.{java,scala},/home/aiganym/Documents/Scala-2019/Lab2/src/main/resources/**/*,/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/**/*.{java,scala},/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(cd2be488be5bb8adad209a20c3862f4167f3c2c4), current stamp: Hash(8ca24192e558cf811e4424d759b102b875b34fdf))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:56:29.814 ALMT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:56:29.814 ALMT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. This event occurred 18 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(8ca24192e558cf811e4424d759b102b875b34fdf), current stamp: Hash(c1639a3bedc64d5b848cd677d61acfb6cdd1ea55))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:56:41.597 ALMT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:56:41.597 ALMT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(c1639a3bedc64d5b848cd677d61acfb6cdd1ea55), current stamp: Hash(cf6baa0742969a0b3f4b6a7d69b9f85dad047976))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:12.813 ALMT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:12.813 ALMT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. This event occurred 24 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(cf6baa0742969a0b3f4b6a7d69b9f85dad047976), current stamp: Hash(c1639a3bedc64d5b848cd677d61acfb6cdd1ea55))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:22.014 ALMT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:22.014 ALMT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(c1639a3bedc64d5b848cd677d61acfb6cdd1ea55), current stamp: Hash(bc42521d1466a97fe8f5dcb39aad8b8e12b6b65c))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:28.516 ALMT),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:28.516 ALMT).[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala (previous stamp: Hash(bc42521d1466a97fe8f5dcb39aad8b8e12b6b65c), current stamp: Hash(cd2be488be5bb8adad209a20c3862f4167f3c2c4))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlab2 / Compile / run - Accepted event for /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala -> Trigger. Returning: (Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:40.488 ALMT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala, 2019-Sep-14 13:57:40.488 ALMT).[0m
+[0m[[0m[0minfo[0m] [0m[0m7. Monitoring source files for lab2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/aiganym/Documents/Scala-2019/Lab2/src/main/scala/Lab.scala. This event occurred 1 ms since the last event for this path.[0m

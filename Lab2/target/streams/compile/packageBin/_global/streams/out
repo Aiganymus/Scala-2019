@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/lab2_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Lab2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Walks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Walks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Lab2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Lab2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Lab2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Cat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Dog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Dog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aiganym/Documents/Scala-2019/Lab2/target/scala-2.13/classes/Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

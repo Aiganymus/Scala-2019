@@ -1,0 +1,112 @@
+GET _search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+
+# get the list of all indices
+GET _cat/indices
+
+# create a new index
+PUT /movies
+
+# delete index
+DELETE movies
+
+
+# add document to index by id
+PUT /movies/_doc/id-1
+{
+  "director": {
+    "firstName": "Todd",
+      "id": "dir-1",
+      "lastName": "Philips"
+    },
+  "id": "id-1",
+  "title": "Joker",
+  "yearOfRelease": 2019
+}
+
+# read document from index by id
+GET /movies/_doc/id-1
+
+# update document to index by id
+PUT /movies/_doc/id-1
+{
+  "director": {
+    "firstName": "Todd",
+      "id": "dir-1",
+      "lastName": "Philips"
+    },
+  "id": "id-1",
+  "title": "JokerUpdated",
+  "yearOfRelease": 2019
+}
+
+# delete document by id
+DELETE /movies/_doc/id-1
+
+PUT /movies/_doc/id-2
+{
+  "director": {
+    "firstName": "Akan",
+      "id": "dir-2",
+      "lastName": "Sataev"
+    },
+  "id": "id-2",
+  "title": "Tomiris",
+  "yearOfRelease": 2019
+}
+
+# SELECT by id
+GET /movies/_doc/id-2
+
+# SELECT *
+GET /movies/_doc/_search
+
+# SELECT * WHERE yearOfRelease=2019
+GET /movies/_doc/_search
+{
+  "query": {
+    "match": {
+      "yearOfRelease": 2019
+    }
+  }
+}
+
+# SELECT * WHERE firstName='Akan'
+GET /movies/_doc/_search
+{
+  "query": {
+    "match": {
+      "director.firstName": "Akan"
+    }
+  } 
+}
+
+# same result as above
+GET /movies/_doc/_search
+{
+  "query": {
+    "match": {
+      "director.firstName": "akan"
+    }
+  }
+}
+
+# add new document with different structure (new key "comment")
+PUT /movies/_doc/id-3
+{
+  "director": {
+    "firstName": "Todd",
+      "id": "dir-1",
+      "lastName": "Philips"
+    },
+  "id": "id-1",
+  "title": "Joker",
+  "yearOfRelease": 2019,
+  "comment": "I like it"
+}
+
+GET /movies/_doc/id-3
